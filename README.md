@@ -193,5 +193,3 @@ The developed system successfully showcased:
 - Understanding of how to **structure and refine prompts** for real-world outcomes  
 - Use of generative AI to **balance productivity, learning, and motivation** in daily life  
 
-**✅ Outcome:**  
-A functional prototype of a **Prompt-Driven Study Assistant** capable of adapting to user needs and evolving through iterative prompting.
